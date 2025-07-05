@@ -4,7 +4,7 @@
  * Description: Export and import WooCommerce REST API keys as JSON.
  * Version:     1.5.0
  * Author:      Abdul Majeed
- * Author URI:  https://abdulmajeedali.cin
+ * Author URI:  https://abdulmajeedali.in
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
